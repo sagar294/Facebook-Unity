@@ -1,0 +1,15 @@
+
+=== Thu Oct 29 11:13:20 2020
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were added:
+  com.unity.package-manager-ui@2.2.0
+  com.unity.ext.nunit@1.0.0
+The following packages were updated:
+  com.unity.textmeshpro from version 2.1.1 to 2.0.1
+  com.unity.test-framework from version 1.1.16 to 1.0.13
+  com.unity.timeline from version 1.2.16 to 1.1.0
+  com.unity.ide.vscode from version 1.2.1 to 1.1.3
+  com.unity.ide.rider from version 1.1.4 to 1.1.0
