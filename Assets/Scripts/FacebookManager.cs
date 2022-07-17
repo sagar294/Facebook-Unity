@@ -16,7 +16,7 @@ public class FacebookManager : MonoBehaviour
                 if (FB.IsInitialized)
                     FB.ActivateApp();
                 else
-                    Debug.LogError("Couldn't initialize");
+                    Debug.LogError("Couldn't initialize the facebok");
             },
             isGameShown =>
             {
@@ -76,7 +76,7 @@ public class FacebookManager : MonoBehaviour
 
     public void FacebookInvite()
     {
-        //FB.Mobile.AppInvite(new System.Uri("https://play.google.com/store/apps/details?id=com.tappybyte.byteaway"));
+        FB.Mobile.AppInvite(new System.Uri("https://play.google.com/store/apps/details?id=com.tappybyte.byteaway"));
     }
     #endregion
 
