@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C92EFA4D-5B2D-6B70-23BE-9B3DC8B70D63}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FacebookManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FacebookManager.cs" Line="41" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Facebook-Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6c850f8e-1398-49a6-b335-5abf7a215553" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
